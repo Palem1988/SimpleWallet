@@ -1,2 +1,2 @@
-# SimpleWallet
-SnowGem Simple Wallet
+# DO NOT USE
+# WORK IN PROGRESS
